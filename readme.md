@@ -1,3 +1,5 @@
 # npm Boilerplate
 
-This repository serves as my re-usable boilerplate for all of my npm packages and projects. Feel free to share, fork, clone -- whatever! 🍻
+This repository serves as my re-usable boilerplate for whenever I roll a new npm package or project.
+
+Feel free to share, fork, clone -- whatever! 🍻
