@@ -1,0 +1,23 @@
+{
+  "name": " ",
+  "version": "0.1.0",
+  "description": " ",
+  "main": " ",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnfoderaro/ "
+  },
+  "keywords": [
+
+  ],
+  "author": "John Foderaro <johnfoderaro@icloud.com>",
+  "license": "MIT",
+  "readmeFilename": "readme.md",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
